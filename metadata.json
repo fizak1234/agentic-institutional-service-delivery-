@@ -1,0 +1,8 @@
+{
+  "name": "SOA S1 - Agentic Institutional Service Delivery",
+  "description": "Human-in-the-Loop Agentic AI platform for autonomous institutional service delivery, multi-step workflow planning, verified institutional knowledge retrieval, auditable action trails, and uncertainty & policy conflict detection for SOA Ideathon 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
